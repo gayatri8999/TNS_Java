@@ -7,7 +7,9 @@ public class variable_declaration {
 		int FOR =23;
 		long l =13456781;
 		char ch='a';
-		String nameString="shreya";		
+		
+		String nameString="shreya";	
+
 		System.out.println($num1);
 		System.out.println(num);
 		System.out.println(FOR);
